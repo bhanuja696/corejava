@@ -1,6 +1,6 @@
 package com.oracle.project1.module3;
 
-public class car {
+public class Car {
 
 	// varbs is usede to hold the  information 
 	String name;
